@@ -3,7 +3,7 @@
 [![banner](static/og-image.jpg)](https://cosmos.network)
 
 <!-- TODO: replace netlify project id -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bee2ebd-1ac3-4e05-9bb8-a3859826447f/deploy-status)](https://app.netlify.com/sites/stargate-site/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95922340-1949-40cc-a38e-c520d441097b/deploy-status)](https://app.netlify.com/sites/stargate-site/deploys)
 
 ## Build Setup
 
